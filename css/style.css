@@ -17,6 +17,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
+    margin: 0;
 }
 ol, ul {
     list-style: none;
@@ -56,6 +57,7 @@ div {
 }
 .top-navigation > .content {
     height: 4.375rem;
+    width: 700px;
 }
 .top-navigation .logo {
     height: 4.375rem;
@@ -141,7 +143,6 @@ div {
     font-weight: 300;
 }
 .cases .devices > li {
-     display: inline-block;
     width: 33.3333333%;
     float:left;
 }
